@@ -9,7 +9,6 @@
 	<version>0.1.0</version>
 
 	<properties>
-		<!-- Information used to define properties about a plugin. Please see the PF4J docs for more details https://pf4j.org/doc/getting-started.html -->
 		<plugin.id>mlst</plugin.id>
 		<plugin.class>org.publichealthbioinformatics.irida.plugin.mlst.MLSTPlugin</plugin.class>
 		<plugin.version>0.1.0</plugin.version>
@@ -20,7 +19,7 @@
 		<irida.version.compiletime>19.01.3</irida.version.compiletime>
 
 		<pf4j.version>2.4.0</pf4j.version>
-		
+
 		<java.version>1.8</java.version>
 	</properties>
 
